@@ -1,0 +1,135 @@
+{ 
+    "_id" : ObjectId("5d8d9eaa2b3afe6be6949732"), 
+    "Hotel_id" : 1.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "Red Fox", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel1.png"
+}
+{ 
+    "_id" : ObjectId("5d8d9eaa2b3afe6be6949733"), 
+    "Hotel_id" : 2.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "Ramyas", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel2.png"
+}
+{ 
+    "_id" : ObjectId("5d91d733d18a89083d7e1085"), 
+    "Hotel_id" : 3.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "FabHotel Ranjanas", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel3.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91d769d18a89083d7e1086"), 
+    "Hotel_id" : 4.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "Treebo Trend Regency", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel4.png"
+}
+{ 
+    "_id" : ObjectId("5d91d794d18a89083d7e1087"), 
+    "Hotel_id" : 5.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "FabExpress Silver Crest", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel5.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91d7bed18a89083d7e1088"), 
+    "Hotel_id" : 6.0, 
+    "Location_id" : 2.0, 
+    "Hotelname" : "Aurora Towers", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel6.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91dfa3d18a89083d7e108a"), 
+    "Hotel_id" : 7.0, 
+    "Location_id" : 1.0, 
+    "Hotelname" : "Royal Orchid Central", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel7.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91dfaad18a89083d7e108b"), 
+    "Hotel_id" : 8.0, 
+    "Location_id" : 1.0, 
+    "Hotelname" : "The E-Square Hotel", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel8.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91dfd3d18a89083d7e108c"), 
+    "Hotel_id" : 9.0, 
+    "Location_id" : 1.0, 
+    "Hotelname" : "Keys Klub Parc Estique", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel9.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91e03bd18a89083d7e108d"), 
+    "Hotel_id" : 10.0, 
+    "Location_id" : 3.0, 
+    "Hotelname" : "Treebo Tryst Amber", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel10.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91e064d18a89083d7e108e"), 
+    "Hotel_id" : 11.0, 
+    "Location_id" : 3.0, 
+    "Hotelname" : "Apple Villa", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel11.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91e07dd18a89083d7e108f"), 
+    "Hotel_id" : 12.0, 
+    "Location_id" : 3.0, 
+    "Hotelname" : "Treebo Tryst Royce", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel12.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91e0bad18a89083d7e1090"), 
+    "Hotel_id" : 13.0, 
+    "Location_id" : 4.0, 
+    "Hotelname" : "Mosaic Hotel", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel13.jpg"
+}
+{ 
+    "_id" : ObjectId("5d91e0cdd18a89083d7e1091"), 
+    "Hotel_id" : 14.0, 
+    "Location_id" : 4.0, 
+    "Hotelname" : "Evoke Lifestylel", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel14.png"
+}
+{ 
+    "_id" : ObjectId("5d91e11dd18a89083d7e1092"), 
+    "Hotel_id" : 15.0, 
+    "Location_id" : 4.0, 
+    "Hotelname" : "Hotel Classic Diplomat", 
+    "Htype" : 1.0, 
+    "Status" : 1.0, 
+    "image_name" : "hotel15.png"
+}

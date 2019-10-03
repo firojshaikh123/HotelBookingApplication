@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("5d8d9e872b3afe6be694972d"), 
+    "State_id" : 1.0, 
+    "City_id" : 1.0, 
+    "City_name" : "Pune", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9e882b3afe6be694972e"), 
+    "State_id" : 1.0, 
+    "City_id" : 2.0, 
+    "City_name" : "Mumbai", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91d439d18a89083d7e106a"), 
+    "State_id" : 2.0, 
+    "City_id" : 3.0, 
+    "City_name" : "Delhi", 
+    "Status" : 1.0
+}

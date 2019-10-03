@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("5d8d9cd92b3afe6be6949717"), 
+    "Hotel_id" : 1.0, 
+    "Room_id" : 1.0, 
+    "R_number" : "R_101", 
+    "Is_reserved" : 1.0, 
+    "Status" : 1.0, 
+    "Room_type_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9cd92b3afe6be6949718"), 
+    "Hotel_id" : 2.0, 
+    "Room_id" : 2.0, 
+    "R_number" : "R_102", 
+    "Is_reserved" : 1.0, 
+    "Status" : 1.0, 
+    "Room_type_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d8d9cd92b3afe6be6949719"), 
+    "Hotel_id" : 3.0, 
+    "Room_id" : 3.0, 
+    "R_number" : "R_103", 
+    "Is_reserved" : 1.0, 
+    "Status" : 1.0, 
+    "Room_type_id" : 4.0
+}

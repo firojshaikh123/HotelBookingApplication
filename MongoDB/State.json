@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5d8d9e7c2b3afe6be694972b"), 
+    "Country_id" : 1.0, 
+    "State_id" : 1.0, 
+    "State_name" : "Maharastra", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9e7c2b3afe6be694972c"), 
+    "Country_id" : 1.0, 
+    "State_id" : 2.0, 
+    "State_name" : "Delhi", 
+    "Status" : 1.0
+}

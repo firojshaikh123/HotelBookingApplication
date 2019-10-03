@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("5d8d9e952b3afe6be694972f"), 
+    "City_id" : 1.0, 
+    "Location_id" : 1.0, 
+    "Location_name" : "Wakad", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9e952b3afe6be6949730"), 
+    "City_id" : 1.0, 
+    "Location_id" : 2.0, 
+    "Location_name" : "Hinjewadi", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9e952b3afe6be6949731"), 
+    "City_id" : 3.0, 
+    "Location_id" : 3.0, 
+    "Location_name" : "Airport", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91d6bbd18a89083d7e107e"), 
+    "City_id" : 2.0, 
+    "Location_id" : 4.0, 
+    "Location_name" : "Andheri", 
+    "Status" : 1.0
+}

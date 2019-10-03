@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("5d8d9ec22b3afe6be6949737"), 
+    "HotelFacility_id" : 1.0, 
+    "Hotel_id" : 1.0, 
+    "Facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ec22b3afe6be6949738"), 
+    "HotelFacility_id" : 2.0, 
+    "Hotel_id" : 1.0, 
+    "Facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ec22b3afe6be6949739"), 
+    "HotelFacility_id" : 3.0, 
+    "Hotel_id" : 1.0, 
+    "Facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9edf2b3afe6be694973a"), 
+    "HotelFacility_id" : 3.0, 
+    "Hotel_id" : 1.0, 
+    "Facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9edf2b3afe6be694973b"), 
+    "HotelFacility_id" : 2.0, 
+    "Hotel_id" : 1.0, 
+    "Facility_id" : 1.0
+}

@@ -1,0 +1,135 @@
+{ 
+    "_id" : ObjectId("5d8d9ff92b3afe6be694973c"), 
+    "hotel_id" : 1.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ff92b3afe6be694973d"), 
+    "hotel_id" : 2.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ffa2b3afe6be694973e"), 
+    "hotel_id" : 3.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ffa2b3afe6be694973f"), 
+    "hotel_id" : 4.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9ffa2b3afe6be6949740"), 
+    "hotel_id" : 5.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91e530d18a89083d7e10a0"), 
+    "hotel_id" : 6.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 2.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91e5bdd18a89083d7e10ad"), 
+    "hotel_id" : 7.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 1.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91e5dcd18a89083d7e10ae"), 
+    "hotel_id" : 8.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 1.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d91e5e5d18a89083d7e10af"), 
+    "hotel_id" : 9.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 1.0, 
+    "location_id" : 1.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dbecd18a89083d7e10bb"), 
+    "hotel_id" : 10.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 2.0, 
+    "location_id" : 4.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dc09d18a89083d7e10bc"), 
+    "hotel_id" : 11.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 2.0, 
+    "location_id" : 4.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dc11d18a89083d7e10bd"), 
+    "hotel_id" : 12.0, 
+    "country_id" : 1.0, 
+    "state_id" : 1.0, 
+    "city_id" : 2.0, 
+    "location_id" : 4.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dc40d18a89083d7e10be"), 
+    "hotel_id" : 13.0, 
+    "country_id" : 1.0, 
+    "state_id" : 2.0, 
+    "city_id" : 3.0, 
+    "location_id" : 3.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dc5fd18a89083d7e10bf"), 
+    "hotel_id" : 14.0, 
+    "country_id" : 1.0, 
+    "state_id" : 2.0, 
+    "city_id" : 3.0, 
+    "location_id" : 3.0, 
+    "facility_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dc7ed18a89083d7e10c0"), 
+    "hotel_id" : 15.0, 
+    "country_id" : 1.0, 
+    "state_id" : 2.0, 
+    "city_id" : 3.0, 
+    "location_id" : 3.0, 
+    "facility_id" : 1.0
+}

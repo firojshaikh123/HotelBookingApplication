@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("5d8d9d972b3afe6be694971a"), 
+    "Rent_id" : 1.0, 
+    "Room_type_id" : 1.0, 
+    "Amt" : 1500.0, 
+    "From_Date" : "17-09-2019", 
+    "To_Date" : "17-10-2019", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9d972b3afe6be694971b"), 
+    "Rent_id" : 2.0, 
+    "Room_type_id" : 3.0, 
+    "Amt" : 1200.0, 
+    "From_Date" : "17-06-2019", 
+    "To_Date" : "17-07-2019", 
+    "Status" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9d982b3afe6be694971c"), 
+    "Rent_id" : 3.0, 
+    "Room_type_id" : 2.0, 
+    "Amt" : 1700.0, 
+    "From_Date" : "17-05-2019", 
+    "To_Date" : "17-07-2019", 
+    "Status" : 1.0
+}

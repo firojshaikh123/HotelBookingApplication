@@ -1,0 +1,270 @@
+{ 
+    "_id" : ObjectId("5d91bf32064634b5df9964d2"), 
+    "hotelrent_id" : 1.0, 
+    "hotel_id" : 1.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d91bf32064634b5df9964d3"), 
+    "hotelrent_id" : 2.0, 
+    "hotel_id" : 1.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92dd52d18a89083d7e10cf"), 
+    "hotelrent_id" : 3.0, 
+    "hotel_id" : 1.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dd73d18a89083d7e10d0"), 
+    "hotelrent_id" : 4.0, 
+    "hotel_id" : 2.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dd7dd18a89083d7e10d1"), 
+    "hotelrent_id" : 5.0, 
+    "hotel_id" : 2.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92dd93d18a89083d7e10d2"), 
+    "hotelrent_id" : 6.0, 
+    "hotel_id" : 2.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92ddaad18a89083d7e10d3"), 
+    "hotelrent_id" : 7.0, 
+    "hotel_id" : 3.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92ddb6d18a89083d7e10d4"), 
+    "hotelrent_id" : 8.0, 
+    "hotel_id" : 3.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92ddc6d18a89083d7e10d5"), 
+    "hotelrent_id" : 9.0, 
+    "hotel_id" : 3.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92dddbd18a89083d7e10d6"), 
+    "hotelrent_id" : 10.0, 
+    "hotel_id" : 4.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92ddf1d18a89083d7e10d7"), 
+    "hotelrent_id" : 11.0, 
+    "hotel_id" : 4.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92de11d18a89083d7e10d8"), 
+    "hotelrent_id" : 12.0, 
+    "hotel_id" : 4.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92de28d18a89083d7e10d9"), 
+    "hotelrent_id" : 13.0, 
+    "hotel_id" : 5.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92de35d18a89083d7e10da"), 
+    "hotelrent_id" : 14.0, 
+    "hotel_id" : 5.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92de43d18a89083d7e10db"), 
+    "hotelrent_id" : 15.0, 
+    "hotel_id" : 5.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92de56d18a89083d7e10dc"), 
+    "hotelrent_id" : 16.0, 
+    "hotel_id" : 6.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92de63d18a89083d7e10dd"), 
+    "hotelrent_id" : 17.0, 
+    "hotel_id" : 6.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92de6fd18a89083d7e10de"), 
+    "hotelrent_id" : 18.0, 
+    "hotel_id" : 6.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92de95d18a89083d7e10df"), 
+    "hotelrent_id" : 19.0, 
+    "hotel_id" : 7.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92de9fd18a89083d7e10e0"), 
+    "hotelrent_id" : 20.0, 
+    "hotel_id" : 7.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92deb3d18a89083d7e10e1"), 
+    "hotelrent_id" : 21.0, 
+    "hotel_id" : 7.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92dec8d18a89083d7e10e2"), 
+    "hotelrent_id" : 22.0, 
+    "hotel_id" : 8.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92ded0d18a89083d7e10e3"), 
+    "hotelrent_id" : 23.0, 
+    "hotel_id" : 8.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92dedbd18a89083d7e10e4"), 
+    "hotelrent_id" : 24.0, 
+    "hotel_id" : 8.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92dee7d18a89083d7e10e5"), 
+    "hotelrent_id" : 25.0, 
+    "hotel_id" : 9.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92def0d18a89083d7e10e6"), 
+    "hotelrent_id" : 26.0, 
+    "hotel_id" : 9.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92def6d18a89083d7e10e7"), 
+    "hotelrent_id" : 27.0, 
+    "hotel_id" : 9.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92df06d18a89083d7e10e8"), 
+    "hotelrent_id" : 28.0, 
+    "hotel_id" : 10.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92df0fd18a89083d7e10e9"), 
+    "hotelrent_id" : 29.0, 
+    "hotel_id" : 10.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92df1bd18a89083d7e10ea"), 
+    "hotelrent_id" : 30.0, 
+    "hotel_id" : 10.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92df45d18a89083d7e10ec"), 
+    "hotelrent_id" : 31.0, 
+    "hotel_id" : 11.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92df4dd18a89083d7e10ed"), 
+    "hotelrent_id" : 32.0, 
+    "hotel_id" : 11.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92df53d18a89083d7e10ee"), 
+    "hotelrent_id" : 33.0, 
+    "hotel_id" : 11.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92df5cd18a89083d7e10ef"), 
+    "hotelrent_id" : 34.0, 
+    "hotel_id" : 12.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92df64d18a89083d7e10f0"), 
+    "hotelrent_id" : 35.0, 
+    "hotel_id" : 12.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92df70d18a89083d7e10f1"), 
+    "hotelrent_id" : 36.0, 
+    "hotel_id" : 12.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92df81d18a89083d7e10f2"), 
+    "hotelrent_id" : 37.0, 
+    "hotel_id" : 13.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92df87d18a89083d7e10f3"), 
+    "hotelrent_id" : 38.0, 
+    "hotel_id" : 13.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92df8dd18a89083d7e10f4"), 
+    "hotelrent_id" : 39.0, 
+    "hotel_id" : 13.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92df9cd18a89083d7e10f5"), 
+    "hotelrent_id" : 40.0, 
+    "hotel_id" : 14.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dfa3d18a89083d7e10f6"), 
+    "hotelrent_id" : 41.0, 
+    "hotel_id" : 14.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92dfadd18a89083d7e10f7"), 
+    "hotelrent_id" : 42.0, 
+    "hotel_id" : 14.0, 
+    "rent_id" : 3.0
+}
+{ 
+    "_id" : ObjectId("5d92dfb8d18a89083d7e10f8"), 
+    "hotelrent_id" : 43.0, 
+    "hotel_id" : 15.0, 
+    "rent_id" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d92dfc3d18a89083d7e10f9"), 
+    "hotelrent_id" : 44.0, 
+    "hotel_id" : 15.0, 
+    "rent_id" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d92dfcdd18a89083d7e10fa"), 
+    "hotelrent_id" : 45.0, 
+    "hotel_id" : 15.0, 
+    "rent_id" : 3.0
+}

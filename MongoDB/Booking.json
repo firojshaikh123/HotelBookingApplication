@@ -1,0 +1,44 @@
+{ 
+    "_id" : NumberInt(1), 
+    "Booking_id" : NumberInt(1), 
+    "Guest_id" : NumberInt(1), 
+    "Date_in" : "", 
+    "Date_Out" : "", 
+    "Booking_date" : "10/1/2019", 
+    "Rent_id" : NumberInt(2), 
+    "Status" : NumberInt(1), 
+    "Paytype_id" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "Booking_id" : NumberInt(2), 
+    "Guest_id" : NumberInt(2), 
+    "Date_in" : "2019-11-03", 
+    "Date_Out" : "2019-01-03", 
+    "Booking_date" : "10/3/2019", 
+    "Rent_id" : NumberInt(1), 
+    "Status" : NumberInt(1), 
+    "Paytype_id" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "Booking_id" : NumberInt(3), 
+    "Guest_id" : NumberInt(3), 
+    "Date_in" : "2019-11-04", 
+    "Date_Out" : "2019-11-05", 
+    "Booking_date" : "10/3/2019", 
+    "Rent_id" : NumberInt(1), 
+    "Status" : NumberInt(1), 
+    "Paytype_id" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "Booking_id" : NumberInt(4), 
+    "Guest_id" : NumberInt(4), 
+    "Date_in" : "2019-10-04", 
+    "Date_Out" : "2019-10-04", 
+    "Booking_date" : "10/3/2019", 
+    "Rent_id" : NumberInt(2), 
+    "Status" : NumberInt(1), 
+    "Paytype_id" : NumberInt(1)
+}

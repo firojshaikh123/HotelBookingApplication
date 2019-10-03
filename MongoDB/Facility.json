@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("5d8d9eb62b3afe6be6949734"), 
+    "Facility_id" : 1.0, 
+    "Facility" : "Complementry Breakfast", 
+    "Status" : 1.0, 
+    "Price" : 0.0
+}
+{ 
+    "_id" : ObjectId("5d8d9eb62b3afe6be6949735"), 
+    "Facility_id" : 2.0, 
+    "Facility" : "Free WiFi", 
+    "Status" : 1.0, 
+    "Price" : 0.0
+}
+{ 
+    "_id" : ObjectId("5d8d9eb72b3afe6be6949736"), 
+    "Facility_id" : 3.0, 
+    "Facility" : "Confrence Room", 
+    "Status" : 1.0, 
+    "Price" : 500.0
+}

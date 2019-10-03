@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5d8d9c40d7bbef96bca66e38"), 
+    "Room_type_id" : 1.0, 
+    "Description" : "Single Room", 
+    "Max_Capacity" : 1.0
+}
+{ 
+    "_id" : ObjectId("5d8d9c4bd7bbef96bca66e39"), 
+    "Room_type_id" : 2.0, 
+    "Description" : "Double Room", 
+    "Max_Capacity" : 2.0
+}
+{ 
+    "_id" : ObjectId("5d8d9c5dd7bbef96bca66e3a"), 
+    "Room_type_id" : 3.0, 
+    "Description" : "Family Room", 
+    "Max_Capacity" : 4.0
+}
+{ 
+    "_id" : ObjectId("5d8d9c63d7bbef96bca66e3b"), 
+    "Room_type_id" : 4.0, 
+    "Description" : "Meeting Hall", 
+    "Max_Capacity" : 50.0
+}
